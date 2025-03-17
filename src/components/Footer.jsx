@@ -20,7 +20,7 @@ export default function Footer() {
         © {new Date().getFullYear()} Weather App. All rights reserved.
       </Typography>
       <Box sx={{ marginTop: '10px' }}>
-        <Link href="https://github.com/your-repo" color="inherit" target="_blank" rel="noopener">
+        <Link href="https://github.com/Mohit-Dholpuria/Weather-App" color="inherit" target="_blank" rel="noopener">
           GitHub
         </Link>
         {' | '}
